@@ -1,0 +1,53 @@
+{
+  "name": "spf-dashboard",
+  "version": "1.0.0",
+  "description": "State Public Finance Dashboard — interactive analysis of India's 28 states across 10 fiscal years, sourced from CAG Annual Finance Accounts.",
+  "private": true,
+  "homepage": ".",
+  "keywords": [
+    "india",
+    "state-public-finance",
+    "fiscal-data",
+    "cag",
+    "dashboard",
+    "open-data",
+    "choropleth",
+    "react"
+  ],
+  "author": {
+    "name": "SPF & ESU Unit",
+    "url": "https://github.com/your-org/spf-dashboard"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "5.0.1",
+    "recharts": "^2.15.0",
+    "html2canvas": "^1.4.1",
+    "xlsx": "^0.18.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
