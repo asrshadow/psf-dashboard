@@ -1,4 +1,4 @@
-# 🏛️ State Public Finance (SPF) Dashboard
+# 🏛️ Public State Finance (PSF) Dashboard
 
 **An open, interactive dashboard for analysing India's state public finances — 28 states · 10 fiscal years · sourced from CAG Annual Finance Accounts & GSDP from MOSPI.**
 
